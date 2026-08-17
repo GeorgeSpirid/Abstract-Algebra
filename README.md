@@ -1,7 +1,6 @@
 # Abstract Algebra — Harvard Math E-222 / Artin's *Algebra*
 
-Personal study repository following Benedict Gross's **Math E-222** lecture series (Harvard Extension School, Fall 2003) alongside Michael Artin's **Algebra** (2nd edition).
-
+Independent study in abstract algebra based on Benedict Gross's Harvard **Math E-222** lecture series and Michael Artin's **Algebra** (2nd ed.). Completed 36 lectures and 100 written exercise solutions.
 ## Contents
 
 | File | Description |
